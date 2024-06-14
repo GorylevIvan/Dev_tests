@@ -1,4 +1,4 @@
-name: style_code
+name: stil
 
 on: [push, pull_request]
 
