@@ -1,4 +1,4 @@
-name: function_test
+name: funTest
 
 on: [push, pull_request]
 
